@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+		<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb262140126553758</string>
+			</array>
+		</dict>
+	</array>
+	<key>FacebookAppID</key>
+	<string>262140126553758</string>
+	<key>FacebookClientToken</key>
+	<string>5a858aa2145937768f659fe9a07335c6</string>
+	<key>FacebookDisplayName</key>
+	<string>GamiGO</string>
+	<key>CFBundleIdentifier</key>
+	<string>AppDelegate</string>
+</dict>
+</plist>

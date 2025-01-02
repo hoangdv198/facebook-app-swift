@@ -9,6 +9,9 @@ import SwiftUI
 
 @main
 struct AppTestFeatureFacebookApp: App {
+    // Integrate AppDelegate for Facebook SDK
+     @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
